@@ -1,1 +1,1 @@
-worker: python3 finance_bot.py
+worker: python bot.py # change bot.py if needed
