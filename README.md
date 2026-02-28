@@ -1,4 +1,4 @@
-💸 Finance Telegram Bot
+**💸 Finance Telegram Bot**
 
 A Telegram bot built with Python that helps users manage investments, search stocks, view charts, and get AI-powered finance insights.
 
