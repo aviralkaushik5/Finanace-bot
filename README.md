@@ -56,7 +56,7 @@ A Telegram bot built with Python that helps users manage investments, search sto
 
 2.	Connect to Render → choose Web Service / Worker.
 
-3.	Add environment variable 7957451812:AAG1_yo8Jwmc2m01uuEjwxhuUsAty_pskpU.
+3.	Add environment variable: #Token
 
 4.	Deploy 🚀.
 
