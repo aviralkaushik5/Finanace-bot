@@ -37,14 +37,10 @@ A Telegram bot built with Python that helps users manage investments, search sto
 
 🔑 Setup
 
-1.	Create a bot on Telegram using @BotFather → get your 7957451812:AAG1_yo8Jwmc2m01uuEjwxhuUsAty_pskpU.
+1.	Create a bot on Telegram using @BotFather → get your TOKEN
 
 2.	Add your token as an environment variable:
 
-
-		export TELEGRAM_TOKEN= 7957451812:AAG1_yo8Jwmc2m01uuEjwxhuUsAty_pskpU   # Mac/Linux
-      
-		set TELEGRAM_TOKEN=7957451812:AAG1_yo8Jwmc2m01uuEjwxhuUsAty_pskpU      # Windows
 
 
 
